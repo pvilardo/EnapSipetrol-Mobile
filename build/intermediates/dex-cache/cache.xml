@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/pablo/src/android/YouMarket-Mobile/app/build/intermediates/incremental-classes/debug/instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="3c26c8438d87713105b1d995e9a3b6bc2c21ddc4">
+        <dex dex="/home/pablo/src/android/YouMarket-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run-bootstrap_9b8eb7fd8b630743ea2e49d538797c5595f1d980/classes.dex" />
+    </item>
+    <item
+        jar="/home/pablo/src/android/YouMarket-Mobile/app/build/intermediates/incremental-runtime-classes/debug/instant-run.jar"
+        jumboMode="true"
+        revision="23.0.3"
+        sha1="a7f56befc089e9b48306b9e6747a98ab309de0f4">
+        <dex dex="/home/pablo/src/android/YouMarket-Mobile/app/build/intermediates/transforms/dex/debug/folders/1000/10/instant-run_62871f41c2b7695a3dac575591e40b4033b91251/classes.dex" />
+    </item>
+
+</items>
